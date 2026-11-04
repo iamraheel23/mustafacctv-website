@@ -1,4 +1,4 @@
-# CCTV Business Website — Beginner Guide
+# CCTV Business Website
 
 A responsive, static CCTV/security installation business website built with HTML, CSS and vanilla JavaScript.
 
